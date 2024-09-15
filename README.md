@@ -50,4 +50,4 @@ $ python3 main.py
 
 ## Reference
 * [Python Documentation - Tkinter](https://docs.python.org/3/library/tkinter.html)
-* [CustomTkinter Documentation](https://customtkinter.tomschimansky.com/documentation/)# To-Do-List
+* [CustomTkinter Documentation](https://customtkinter.tomschimansky.com/documentation/)
